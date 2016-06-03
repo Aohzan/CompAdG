@@ -1,0 +1,9 @@
+C:\Users\REBOUM3\Local\SVN\CompAdG\WinApp\bin\Release\WinApp.exe.config
+C:\Users\REBOUM3\Local\SVN\CompAdG\WinApp\bin\Release\WinApp.exe
+C:\Users\REBOUM3\Local\SVN\CompAdG\WinApp\bin\Release\WinApp.pdb
+C:\Users\REBOUM3\Local\SVN\CompAdG\WinApp\obj\Release\WinApp.Main.resources
+C:\Users\REBOUM3\Local\SVN\CompAdG\WinApp\obj\Release\WinApp.Properties.Resources.resources
+C:\Users\REBOUM3\Local\SVN\CompAdG\WinApp\obj\Release\WinApp.csproj.GenerateResource.Cache
+C:\Users\REBOUM3\Local\SVN\CompAdG\WinApp\obj\Release\WinApp.exe
+C:\Users\REBOUM3\Local\SVN\CompAdG\WinApp\obj\Release\WinApp.pdb
+C:\Users\REBOUM3\Local\SVN\CompAdG\WinApp\obj\Release\WinApp.csprojResolveAssemblyReference.cache
